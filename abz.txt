@@ -1,0 +1,8 @@
+To jest jakiś tekst
+123
+ABBA
+BABA
+TestTestTest
+
+Test
+AAAAZ
